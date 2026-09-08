@@ -1,0 +1,6 @@
+node_modules/
+.env
+bot.sqlite
+bot.sqlite-shm
+bot.sqlite-wal
+tmp/
